@@ -1,6 +1,5 @@
 # JPacman
 [![JPacman CI with Gradle](https://github.com/pinceme/jpacman/actions/workflows/main.yml/badge.svg)](https://github.com/pinceme/jpacman/actions/workflows/main.yml)
-[![Build Status](https://travis-ci.com/SERG-Delft/jpacman.svg?branch=master)](https://travis-ci.com/SERG-Delft/jpacman)
 [![Coverage](.github/badges/jacoco.svg)](https://github.com/<pinceme>/jpacman/actions)
 [![Branches](.github/badges/branches.svg)](https://github.com/<pinceme>/jpacman/actions)
 
